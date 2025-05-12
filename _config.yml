@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in ME at UW–Madison"
   location         : "Madison, WI"
-  employer         : "UW–Madison"
+  employer         : "<a href='https://www.wisc.edu'>UW–Madison</a>"
   uri              : # URL
   email            : "cchen656@wisc.edu" 
 
