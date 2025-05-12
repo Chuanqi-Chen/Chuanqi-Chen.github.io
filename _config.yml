@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Chuanqi Chen \\ 陈传奇"
+title                    : "Chuanqi Chen<br>陈传奇"
 title_separator          : ""
 name                     : &name "Your Name"
 description              : &description "personal description"
