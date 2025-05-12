@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Chuanqi Chen / 陈传奇"
-title_separator          : "-"
+title_separator          : " "
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://Chuanqi-Chen.github.io
